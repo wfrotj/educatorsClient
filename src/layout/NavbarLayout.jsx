@@ -1,6 +1,4 @@
 import { Link } from "react-router-dom";
-import { useEffect } from "react";
-import teacherService from "../services/teacherService";
 
 function NavbarLayout({ user }) {
   return (
